@@ -1,0 +1,4 @@
+1. When we insert more elements into the table, the load factor is much closer to '1'.
+2. when we remove any element from the table, the load factor decrease.
+3. With the increasing of the Loading factor, it's much more difficult to insert new elements.
+4. When the load factor is between 0~0.7, it's easy to insert a new elements.
